@@ -1,0 +1,29 @@
+.blockStatistics {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.titleStatistics {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 20px;
+}
+
+.feedBack {
+  margin: 0;
+  padding-left: 80px;
+  list-style: none;
+  line-height: 20px;
+}
+
+.stats {
+  margin: 0;
+  padding-left: 10px;
+  list-style: none;
+  line-height: 20px;
+}
+.wrapperStatistics {
+  display: flex;
+}
